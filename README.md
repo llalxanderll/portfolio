@@ -1,2 +1,2 @@
-# portfolio
-Examples of past projects and work
+# Data Science Portfolio
+Examples of past projects and work.
